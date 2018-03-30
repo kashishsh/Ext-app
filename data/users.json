@@ -1,0 +1,13 @@
+{
+    success: true,
+    users: [
+        {id: 1, name: 'User-a', email: 'a@gmail.com'},
+        {id: 2, name: 'User-b', email: 'b@gmail.com'},
+        {id: 3, name: 'User-c', email: 'c@gmail.com'},
+        {id: 4, name: 'User-d', email: 'd@gmail.com'},
+        {id: 5, name: 'User-e', email: 'e@gmail.com'},
+        {id: 6, name: 'User-f', email: 'f@gmail.com'},
+        {id: 7, name: 'User-g', email: 'g@gmail.com'},
+        {id: 8, name: 'User-h', email: 'h@gmail.com'},
+    ]
+}
